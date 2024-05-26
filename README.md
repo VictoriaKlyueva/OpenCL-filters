@@ -3,7 +3,7 @@
 Second laboratory works on the course programming paradigms, second part
 
 # Description:
-## 2. Parallel programming, 1st part
+## 2. Parallel programming, 2st part
 
 This program reads an image from a file, then applies the following filters to the image:
 - Gaussian blur
